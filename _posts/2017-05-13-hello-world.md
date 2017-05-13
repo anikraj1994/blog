@@ -1,14 +1,12 @@
 ---
 layout: post
-title: "A Full and Comprehensive Style Test"
-description: "Test post for style"
-date: 2016-08-15
-tags: [test, style]
+title: "Hello World!"
+description: "Test post for new blog"
+date: 2017-05-13
+tags: [test]
 comments: true
-share: true
 ---
-
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+Below is just about everything I'll need to test the blog. This blog is powered by the opensource community. It's made using [Jekyll](https://jekyllrb.com/), [Kiko-plus](https://github.com/AWEEKJ/Kiko-plus) theme by [AWEEKJ](https://github.com/AWEEKJ) and hosted on Github Pages.   
 
 ---
 
